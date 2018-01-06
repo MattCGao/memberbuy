@@ -1,7 +1,6 @@
 # memberbuy
 
-This is the sample project for the interview
-Please check the answer, thank you!
+This is the sample project for the interview.
 
 If you want to run it, please follow these steps:
 1. clone the whole project to your local path.
