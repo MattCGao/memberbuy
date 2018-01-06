@@ -1,0 +1,48 @@
+
+.notificationContentBox {
+  margin-bottom: 60px;
+}
+
+.notificationContentBody{
+
+  background: white;
+  margin-top: 20px;
+  border: 1px solid #A3A6A7;
+  border-radius: 10px;
+  padding: 10px;
+  color: #949799;
+  box-shadow: 1px 1px #B0B2A2;
+}
+
+.notificationGenderLabel {
+  font-size: 2em;
+  text-align: left;
+  cursor: pointer;
+
+  > span {
+    display: inline-block;
+    margin-left: 5px;
+  }
+}
+
+.notificationItem {
+  background-color: #FDA7A7;
+  line-height: 50px;
+  border-radius: 10px;
+  margin: 15px 26px;
+  text-align: left;
+  padding-left: 20px;
+
+  > span {
+    font-size: 1.8em;
+  }
+
+  > i {
+    float: right;
+    margin-top: 10px;
+    margin-right: 20px;    
+    font-size: 2em;
+    cursor: pointer;
+  }
+}
+
